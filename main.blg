@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[74] biber-MSWIN64:322> INFO - === 
+[94] Biber.pm:415> INFO - Reading 'main.bcf'
+[208] Biber.pm:943> INFO - Found 9 citekeys in bib section 0
+[227] Biber.pm:4256> INFO - Processing section 0
+[228] Utils.pm:75> INFO - Globbing data source 'aftertext/references.bib'
+[238] Utils.pm:91> INFO - Globbed data source 'aftertext/references.bib' to aftertext/references.bib
+[256] Biber.pm:4455> INFO - Looking for bibtex format file 'aftertext/references.bib' for section 0
+[260] bibtex.pm:1653> INFO - LaTeX decoding ...
+[278] bibtex.pm:1471> INFO - Found BibTeX data source 'aftertext/references.bib'
+[349] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[350] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[350] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[350] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
+[365] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[370] bbl.pm:755> INFO - Output to main.bbl

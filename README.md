@@ -1,1 +1,1 @@
-# master-thesis-latex
+# Master Thesis
