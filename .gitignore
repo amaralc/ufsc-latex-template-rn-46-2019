@@ -1,5 +1,6 @@
 /**/*.aux
 /chapters/*.aux
+*.aux
 
 /*.blg
 /*.fdb_latexmk
