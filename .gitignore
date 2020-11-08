@@ -5,3 +5,12 @@
 /*.ilg
 /*.log
 /*.synctex.gz
+/*.bbl
+/*.bcf
+/*.idx
+/*.ind
+/*.lof
+/*.loq
+/*.lot
+/*.run.xml
+/*.toc
