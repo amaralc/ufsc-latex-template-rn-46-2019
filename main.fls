@@ -299,6 +299,14 @@ INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapte
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.aux
 OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\main.aux
 INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd
 INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd
@@ -459,12 +467,24 @@ INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex-abnt\l
 OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\1-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\1-chapter.tex
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\1-chapter.tex
-INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
-INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
-INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1200.tfm
 OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\2-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\2-chapter.tex
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\2-chapter.tex
+OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.tex
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.tex
+OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.tex
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.tex
+OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.tex
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.tex
+INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd
+INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ectt1200.tfm
+OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.tex
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.tex
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\images\imagem.pdf
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\images\imagem.pdf
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\images\imagem.pdf
@@ -479,12 +499,12 @@ INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts
 INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\Avell\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
-OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.aux
-INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.tex
-INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.tex
-OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.aux
-INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.tex
-INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.tex
+OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.tex
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.tex
+OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.tex
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.tex
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\aftertext\apendice_a.tex
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\aftertext\apendice_a.tex
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\aftertext\anexo_a.tex
@@ -504,6 +524,14 @@ INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapte
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\3-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\4-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\5-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\6-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\7-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.aux
+INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\chapters\8-chapter.aux
 INPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\main.run.xml
 OUTPUT c:\Users\Avell\Dev\google\github\lmp\master-thesis-latex\main.run.xml
 INPUT C:\Users\Avell\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk

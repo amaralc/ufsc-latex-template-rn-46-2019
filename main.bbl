@@ -336,6 +336,70 @@
       \verb http://biblioteca.ibge.gov.br/visualizacao/livros/liv23907.pdf
       \endverb
     \endentry
+    \entry{KONO2018233}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5e1674a3250b653eace66ae51e1191c3}{%
+           family={Kono},
+           familyi={K\bibinitperiod},
+           given={Daisuke},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab6eacb958129646c3f6590773b7c53b}{%
+           family={Maruhashi},
+           familyi={M\bibinitperiod},
+           given={Akihiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f88341eb5bd43c7edf6dd2d559b1136}{%
+           family={Yamaji},
+           familyi={Y\bibinitperiod},
+           given={Iwao},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bd105f9d580a235701e746749e482be}{%
+           family={Oda},
+           familyi={O\bibinitperiod},
+           given={Yohei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=516220ec565a968f4e00442eec6674dc}{%
+           family={Mori},
+           familyi={M\bibinitperiod},
+           given={Masahiko},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{faf42b967b5f82baa0ef3ed273a2bdf7}
+      \strng{fullhash}{596bbd6166c7cd81ef028bf8e3805dbe}
+      \strng{bibnamehash}{596bbd6166c7cd81ef028bf8e3805dbe}
+      \strng{authorbibnamehash}{596bbd6166c7cd81ef028bf8e3805dbe}
+      \strng{authornamehash}{faf42b967b5f82baa0ef3ed273a2bdf7}
+      \strng{authorfullhash}{596bbd6166c7cd81ef028bf8e3805dbe}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0007-8506}
+      \field{journaltitle}{CIRP Annals}
+      \field{number}{1}
+      \field{title}{Effects of cladding path on workpiece geometry and impact toughness in Directed Energy Deposition of 316L stainless steel}
+      \field{volume}{67}
+      \field{year}{2018}
+      \field{pages}{233\bibrangedash 236}
+      \range{pages}{4}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cirp.2018.04.087
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0007850618301112
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0007850618301112
+      \endverb
+      \keyw{Additive manufacturing,Laser,Stainless steel}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

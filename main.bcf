@@ -2278,24 +2278,25 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">abntex2classe</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">NBR6023:2002</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">NBR6027:2012</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">NBR6028:2003</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">NBR10520:2002</bcf:citekey>
-    <bcf:citekey order="6">NBR6024:2012</bcf:citekey>
-    <bcf:citekey order="7">NBR14724:2011</bcf:citekey>
+    <bcf:citekey order="2">KONO2018233</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">NBR6023:2002</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">NBR6027:2012</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">NBR6028:2003</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">NBR10520:2002</bcf:citekey>
+    <bcf:citekey order="7">NBR6024:2012</bcf:citekey>
     <bcf:citekey order="8">NBR14724:2011</bcf:citekey>
     <bcf:citekey order="9">NBR14724:2011</bcf:citekey>
     <bcf:citekey order="10">NBR14724:2011</bcf:citekey>
     <bcf:citekey order="11">NBR14724:2011</bcf:citekey>
     <bcf:citekey order="12">NBR14724:2011</bcf:citekey>
     <bcf:citekey order="13">NBR14724:2011</bcf:citekey>
-    <bcf:citekey order="14">ibge1993</bcf:citekey>
+    <bcf:citekey order="14">NBR14724:2011</bcf:citekey>
     <bcf:citekey order="15">ibge1993</bcf:citekey>
-    <bcf:citekey order="16">ibge2016</bcf:citekey>
+    <bcf:citekey order="16">ibge1993</bcf:citekey>
     <bcf:citekey order="17">ibge2016</bcf:citekey>
     <bcf:citekey order="18">ibge2016</bcf:citekey>
     <bcf:citekey order="19">ibge2016</bcf:citekey>
+    <bcf:citekey order="20">ibge2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

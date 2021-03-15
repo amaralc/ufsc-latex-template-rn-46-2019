@@ -19,7 +19,7 @@
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{15}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introduction}}{15}{chapter.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Objetivos}{15}{section.1.1}%
 \defcounter {refsection}{0}\relax 
@@ -29,31 +29,59 @@
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Desenvolvimento}}{16}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Development}}{16}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Exposição do tema ou matéria}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Section}{16}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Formatação do texto}{16}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.1}Subsection}{16}{subsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1.1}As ilustrações}{17}{subsubsection.2.1.1.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1.2}Equações e fórmulas}{18}{subsubsection.2.1.1.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{\numberline {2.1.1.2.1}Exemplo tabela}{18}{paragraph.2.1.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}As ilustrações}{16}{subsubsection.2.1.1.1}%
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Seção}}{19}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Discussion}}{17}{chapter.3}%
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusão}}{20}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Conclusion}}{18}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Introdução}}{19}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Objetivos}{19}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Objetivo Geral}{19}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Objetivos Específicos}{19}{subsection.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Desenvolvimento}}{20}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Exposição do tema ou matéria}{20}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1.1}Formatação do texto}{20}{subsection.6.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.1.1}As ilustrações}{21}{subsubsection.6.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.1.2}Equações e fórmulas}{22}{subsubsection.6.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {6.1.1.2.1}Exemplo tabela}{22}{paragraph.6.1.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Seção}}{23}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Conclusão}}{24}{chapter.8}%
 \defcounter {refsection}{0}\relax 
 \vspace {\cftbeforechapterskip }
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{REFERÊNCIAS}{21}{section*.22}%
+\contentsline {chapter}{REFERÊNCIAS}{25}{section*.22}%
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
@@ -62,7 +90,7 @@
 \defcounter {refsection}{0}\relax 
 \cftinsert {A}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Descrição 1}}{22}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Descrição 1}}{27}{appendix.A}%
 \defcounter {refsection}{0}\relax 
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
@@ -73,4 +101,4 @@
 \defcounter {refsection}{0}\relax 
 \cftinsert {A}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Descrição 2}}{23}{appendix.anexochapback.1}%
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Descrição 2}}{28}{appendix.anexochapback.1}%
